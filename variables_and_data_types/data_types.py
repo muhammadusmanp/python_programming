@@ -11,4 +11,5 @@ price = 99.9
 
 # Logical values that are either True or False.
 is_student = True
-print(is_student,)
+print(is_student)
+
