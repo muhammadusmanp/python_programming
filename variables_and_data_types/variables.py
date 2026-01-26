@@ -1,5 +1,4 @@
-# Variables are like containers for storing data values.
-
+# Variables are like containers for storing data values
 name = "Usman"
 print("My name is", name)
 
